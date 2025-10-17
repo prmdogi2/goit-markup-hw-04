@@ -258,11 +258,9 @@ header address a {
   margin-bottom: 32px;
 }
 .team li {
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08);
-
-  box-shadow: 0px 1px 1px 0px rgba(46, 47, 66, 0.16);
-
-  box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .social-icon-wrapper,
@@ -339,11 +337,9 @@ header address a {
 }
 
 .portfolio li:hover {
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08);
-
-  box-shadow: 0px 1px 1px 0px rgba(46, 47, 66, 0.16);
-
-  box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .portimage-wrapper {
   position: relative;
